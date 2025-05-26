@@ -24,13 +24,6 @@
   - Flexible design built using Flexbox
   - Hover animations with red-yellow gradients for interaction
 
----
-
-## 📸 Screenshots
-
-> Add your screenshots here after development  
-`![](screenshots/welcome.png)`  
-`![](screenshots/todolist.png)`
 
 ---
 
