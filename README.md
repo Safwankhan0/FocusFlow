@@ -39,7 +39,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/focusflow.git
+   git clone https://github.com/Safwankhan0/focusflow.git
 Open index.html in any web browser.
 
 Enter your name and start organizing your day!
